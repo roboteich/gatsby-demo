@@ -1,0 +1,86 @@
+{
+  "assetsByChunkName": {
+    "path---world-piece-index": [
+      "path---world-piece-index-6843b2932ed5a44abd11.js",
+      "path---world-piece-index-6843b2932ed5a44abd11.js.map"
+    ],
+    "path---tags-psychology": [
+      "path---tags-psychology-08bcf3494eaec02a7c6e.js",
+      "path---tags-psychology-08bcf3494eaec02a7c6e.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-6374e615bcbfa9098613.js",
+      "component---src-pages-index-js-6374e615bcbfa9098613.js.map"
+    ],
+    "path---world-piece-2-index": [
+      "path---world-piece-2-index-a74676a3aa306544f188.js",
+      "path---world-piece-2-index-a74676a3aa306544f188.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-52202ccf64cfeb647f68.js",
+      "component---src-templates-tags-js-52202ccf64cfeb647f68.js.map"
+    ],
+    "path---tags": [
+      "path---tags-8fb59c2893c8413624f3.js",
+      "path---tags-8fb59c2893c8413624f3.js.map"
+    ],
+    "path---": [
+      "path----71323c0581ca90be1a76.js",
+      "path----71323c0581ca90be1a76.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-015c65ed41f0f86684c0.js",
+      "component---src-templates-blog-post-js-015c65ed41f0f86684c0.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-230ba4d979a5e20a54b0.js",
+      "component---src-layouts-index-js-230ba4d979a5e20a54b0.js.map"
+    ],
+    "path---tags-art-therapy": [
+      "path---tags-art-therapy-a5c8d2747bee8305e4e6.js",
+      "path---tags-art-therapy-a5c8d2747bee8305e4e6.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-40cd060415fd08c1dd81.js",
+      "path---index-40cd060415fd08c1dd81.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-a07bddd5c4350f4b84cb.js",
+      "commons-a07bddd5c4350f4b84cb.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-mental-health": [
+      "path---tags-mental-health-8dfd20ea1d40e5751421.js",
+      "path---tags-mental-health-8dfd20ea1d40e5751421.js.map"
+    ],
+    "component---src-templates-all-tags-js": [
+      "component---src-templates-all-tags-js-23acc89d5a85e20699dc.js",
+      "component---src-templates-all-tags-js-23acc89d5a85e20699dc.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "app": [
+      "app-399256656df1c69095e4.js",
+      "build-js-styles.css",
+      "app-399256656df1c69095e4.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
